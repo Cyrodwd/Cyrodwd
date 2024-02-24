@@ -3,10 +3,10 @@
 
 ## Status (?)
 * *Learning Gentoo*
-<a href="https://www.gentoo.org/" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gentoo/gentoo-original.svg" width="26" height="20" alt="Gentoo"/></a>
+<a href="https://www.gentoo.org/" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gentoo/gentoo-original.svg" width="32" height="20" alt="Gentoo"/></a>
 
 * *Learning Git*
-<a href="https://git-scm.com/" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="26" height="21" alt="Git"/></a>
+<a href="https://git-scm.com/" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="32" height="21" alt="Git"/></a>
 ***********************************************************************
 
 ## Programmer
