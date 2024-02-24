@@ -52,4 +52,15 @@
   * AssaultCube (not so much anymore)
   * Garry's Mod
 * I like foxes, wolves, dogs and cats. I don't know, I just like them. 😐
+* I like free and open source programs, such as GIMP, Krita, Inkscape, VSCodium, Clementine, etc.
 * I like to learn, although not with everything, I like to learn the use of tools, history, geopolitics, programming, UNIX/Linux commands, etc
+
+### Additional description of certain details
+
+* OS: **Gentoo**: Although it is somewhat complicated, I am passionate about it and I like its logo, hehe, something trivial. In addition, I find its Portage package manager flexible and interesting when compiling packages.
+* Languages: **D, Lua and C**: C is the best-known language for developing systems, low-level programs, among others. Lua, on the other hand, is known for its clean syntax and in addition to being used for scripting, video game extensions and programs, among other aspects such as video game development with LÖVE2D. Dlang is less known, but I am interested in its attractive features, and in my opinion its syntax is cleaner and more readable than C++ for example, in addition to having an extensive standard library.
+
+I probably added too many details, but I wanted to share a few additional things.
+
+--------------------------------------------------------------------------------
+### Lass es dir gut gehen und wünsche dir alles Gute, auf Wiedersehen! 👍
