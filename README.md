@@ -1,7 +1,11 @@
-### Hallo! Ich bin Cyrodwd/AuroraPolar 🤌 (Sie können mich unter jedem der beiden Benutzernamen anrufen.)
+### Hello! I'm Cyrodwd/AuroraPolar 🤌 (You can call me with any of the 2 usernames).
 
+<!-- Basic Banner -->
 <a href="https://github.com/Cyrodwd" rel="noreferrer"><img src="Aurorabear.jpeg" width="1280" height="530"/></a>
 
+### I am an intermediate programmer, and I am still practicing, and I am passionate about Linux.
+
+-----------------
 ## Status (?)
 * Learning **Gentoo**. I practice compiling from the source code of certain tools and programs, such as Raylib. To prepare when installing Gentoo and installing those programs or tools that are not in Portage.<br>
 <a href="https://www.gentoo.org/" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gentoo/gentoo-original.svg" width="40" height="36" alt="Gentoo"/></a>
@@ -9,9 +13,9 @@
 * Learning **Git**<br>
 <a href="https://git-scm.com/" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="36" alt="Git"/></a>
 
-## Programmer
 ## Skills
 <p align="left">
+ 
 <!--C-->
 <a href="https://learn.microsoft.com/en-us/cpp/?view=msvc-170" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="36" height="36" alt="C"/></a>
 <!--D-->
@@ -59,4 +63,4 @@
 * I like to learn, although not with everything, I like to learn the use of tools, history, geopolitics, programming, UNIX/Linux commands, etc
 
 --------------------------------------------------------------------------------
-### Lass es dir gut gehen und wünsche dir alles Gute, auf Wiedersehen! 👍
+### Have a good time and wish you all the best, goodbye! 👍
