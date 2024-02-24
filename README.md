@@ -1,5 +1,4 @@
 ### Hallo, Ich bin Cyrodwd 🤌
-======================
 
 ## Status (?)
 * *Learning Gentoo*<br>
@@ -7,10 +6,8 @@
 
 * *Learning Git*<br>
 <a href="https://git-scm.com/" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="36" alt="Git"/></a>
-***********************************************************************
 
 ## Programmer
-
 ## Skills
 <p align="left">
 <!--C-->
@@ -18,11 +15,10 @@
 <!--D-->
 <a href="https://dlang.org" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/24/D_Programming_Language_logo.svg" width="36" height="32" alt="D"/></a>
 <!--Lua-->
-<a href="https://www.lua.org/" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" width="36" height="32" alt="Lua"/></a>
+<a href="https://www.lua.org/" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" width="36" height="32" alt="Lua"/></a></p>
 
 <!--Languages to learn-->
 ### To learn
-
 <p align="left">
 <!--Crystal-->
 <a href="https://crystal-lang.org/" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/crystal/crystal-original.svg" width="36" height="32" alt="Crystal"/></a>
@@ -35,8 +31,10 @@
 <!--Haxe-->
 <a href="https://haxe.org/" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/haxe/haxe-original.svg" width="36" height="32" alt="Haxe"/></a>
 <!--Zig-->
-<a href="https://ziglang.org/" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zig/zig-original-wordmark.svg" width="36" height="32" alt="Zig"/></a>
+<a href="https://ziglang.org/" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zig/zig-original-wordmark.svg" width="36" height="32" alt="Zig"/></a></p>
 
+-----------------------------
+<!-- Personal Information -->
 ### General information
 * I am an introvert, and I get nervous in social situations.
 * I explore and use tools, programs or programming languages ​​that are not so well known or "unconventional" out of curiosity, such is the case of Dlang and Gentoo.
