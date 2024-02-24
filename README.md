@@ -42,7 +42,7 @@
 * I explore and use tools, programs or programming languages ​​that are not so well known or "unconventional" out of curiosity, such is the case of Dlang and Gentoo.
 * I'm not very active in the development space, so I can't always continue projects or things like that.
 * My native language is Spanish, but sometimes I speak English but not very well, therefore I have to use translators in some situations. Although not as much as before, I study German.
-* Certain times I am silent, I speak little, I participate little or I do not participate at all, but I try when it suits me or when I have courage.
+* Certain times I am silent, I speak little, I participate little or directly I do not participate, but I try when it suits me or when I have courage.
 * I don't really like describing myself, I'm ashamed, therefore these characteristics are one of the few that I dare to share.
 
 ### Likes
