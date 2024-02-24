@@ -58,7 +58,7 @@
 ### Additional description of certain details
 
 * OS: **Gentoo**: Although it is somewhat complicated, I am passionate about it and I like its logo, hehe, something trivial. In addition, I find its Portage package manager flexible and interesting when compiling packages.
-* Languages: **D, Lua and C**: C is the best-known language for developing systems, low-level programs, among others. Lua, on the other hand, is known for its clean syntax and in addition to being used for scripting, video game extensions and programs, among other aspects such as video game development with LÖVE2D. Dlang is less known, but I am interested in its attractive features, and in my opinion its syntax is cleaner and more readable than C++ for example, in addition to having an extensive standard library.
+* Languages: **D, Lua and C**: C is the best-known language for developing systems, low-level programs, among others. Lua, on the other hand, is known for its clean syntax and in addition to being used for scripting, video game extensions and programs, among other aspects such as video game development with LÖVE2D. Dlang is less known, but I am interested in its attractive features, and in my opinion its syntax is cleaner and readable, in addition to having an extensive standard library.
 
 I probably added too many details, but I wanted to share a few additional things.
 
