@@ -1,10 +1,10 @@
-### Hallo, Ich bin Cyrodwd 🤌
+### Hallo! Ich bin Cyrodwd 🤌
 
 ## Status (?)
-* *Learning Gentoo*<br>
+* Learning **Gentoo**. I practice compiling from the source code of certain tools and programs, such as Raylib. To prepare when installing Gentoo and installing those programs or tools that are not in Portage.<br>
 <a href="https://www.gentoo.org/" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gentoo/gentoo-original.svg" width="40" height="36" alt="Gentoo"/></a>
 
-* *Learning Git*<br>
+* Learning **Git**<br>
 <a href="https://git-scm.com/" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="36" alt="Git"/></a>
 
 ## Programmer
@@ -51,4 +51,4 @@
   * AssaultCube (not so much anymore)
   * Garry's Mod
 * I like foxes, wolves, dogs and cats. By the way, it's not that I'm Edgy, I just like them. 😐
-* I like to learn, although not with everything, I like to learn the use of tools, history, geopolitics, programming, Gentoo, etc.
+* I like to learn, although not with everything, I like to learn the use of tools, history, geopolitics, programming, Gentoo, etc
