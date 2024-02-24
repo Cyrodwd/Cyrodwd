@@ -1,4 +1,4 @@
-### Hallo, Ich bin Cyrodwd.
+### Hallo, Ich bin Cyrodwd 🤌
 ======================
 
 ## Status (?)
@@ -41,5 +41,16 @@
 * I am an introvert, and I get nervous in social situations.
 * I explore and use tools, programs or programming languages ​​that are not so well known or "unconventional" out of curiosity, such is the case of Dlang and Gentoo.
 * I'm not very active in the development space, so I can't always continue projects or things like that.
+* My native language is Spanish, but sometimes I speak English but not very well, therefore I have to use translators in some situations. Although not as much as before, I study German.
+* Certain times I am silent, I speak little, I participate little or I do not participate at all, but I try when it suits me or when I have courage.
+* I don't really like describing myself, I'm ashamed, therefore these characteristics are one of the few that I dare to share.
+
+### Likes
 * (**This is more trivial**) I like the color white, something very simple. I also like colors that are easy on the eyes and give "relaxing" vibes; such as purple, black, navy blue, etc.
 * I like ***aesthetic*** designs or aspects, but on the one hand it's a "joke" and on the other hand it's serious, because I like things that are pretty or good to look at, but not in such a strict way either. .
+* I like FPS and sandbox games, including:
+  * Day of Defeat: Source
+  * AssaultCube (not so much anymore)
+  * Garry's Mod
+* I like foxes, wolves, dogs and cats. By the way, it's not that I'm Edgy, I just like them. 😐
+* I like to learn, although not with everything, I like to learn the use of tools, history, geopolitics, programming, Gentoo, etc.
