@@ -34,6 +34,7 @@
 <a href="https://ziglang.org/" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zig/zig-original-wordmark.svg" width="36" height="32" alt="Zig"/></a>
 <!--Vlang-->
 <a href="https://vlang.io/" rel="noreferrer"><img src="https://www.svgrepo.com/show/374170/vlang.svg" width="38" height="35" alt="V"/></a></p>
+
 -----------------------------
 <!-- Personal Information -->
 ### General information
