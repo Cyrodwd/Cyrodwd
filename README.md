@@ -1,4 +1,4 @@
-### Hallo! Ich bin Cyrodwd 🤌
+### Hallo! Ich bin Cyrodwd/AuroraPolar 🤌 (Sie können mich unter jedem der beiden Benutzernamen anrufen.)
 
 ## Status (?)
 * Learning **Gentoo**. I practice compiling from the source code of certain tools and programs, such as Raylib. To prepare when installing Gentoo and installing those programs or tools that are not in Portage.<br>
@@ -31,8 +31,9 @@
 <!--Haxe-->
 <a href="https://haxe.org/" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/haxe/haxe-original.svg" width="36" height="32" alt="Haxe"/></a>
 <!--Zig-->
-<a href="https://ziglang.org/" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zig/zig-original-wordmark.svg" width="36" height="32" alt="Zig"/></a></p>
-
+<a href="https://ziglang.org/" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zig/zig-original-wordmark.svg" width="36" height="32" alt="Zig"/></a>
+<!--Vlang-->
+<a href="https://vlang.io/" rel="noreferrer"><img src="https://www.svgrepo.com/show/374170/vlang.svg" width="38" height="35" alt="V"/></a></p>
 -----------------------------
 <!-- Personal Information -->
 ### General information
