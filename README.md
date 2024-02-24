@@ -1,6 +1,6 @@
 ### Hallo! Ich bin Cyrodwd/AuroraPolar 🤌 (Sie können mich unter jedem der beiden Benutzernamen anrufen.)
 
-<a href="https://github.com/Cyrodwd" rel="noreferrer"><img src="Aurorabear.jpeg"/></a>
+<a href="https://github.com/Cyrodwd" rel="noreferrer"><img src="Aurorabear.jpeg" width="1280" height="530"/></a>
 
 ## Status (?)
 * Learning **Gentoo**. I practice compiling from the source code of certain tools and programs, such as Raylib. To prepare when installing Gentoo and installing those programs or tools that are not in Portage.<br>
