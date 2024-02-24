@@ -50,5 +50,5 @@
   * Day of Defeat: Source
   * AssaultCube (not so much anymore)
   * Garry's Mod
-* I like foxes, wolves, dogs and cats. By the way, it's not that I'm Edgy, I just like them. 😐
-* I like to learn, although not with everything, I like to learn the use of tools, history, geopolitics, programming, Gentoo, etc
+* I like foxes, wolves, dogs and cats. I don't know, I just like them. 😐
+* I like to learn, although not with everything, I like to learn the use of tools, history, geopolitics, programming, UNIX/Linux commands, etc
