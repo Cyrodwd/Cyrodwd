@@ -1,7 +1,7 @@
 ### Hello! I'm Cyrodwd/AuroraPolar 🤌 (You can call me with any of the 2 usernames).
 
-<!-- Basic Banner, also the banner says "AuroraBear" instead of "AuroraPolar", that was a mistake -->
-<a href="https://github.com/Cyrodwd" rel="noreferrer"><img src="Aurorabear.jpeg" width="1280" height="530"/></a>
+<!-- Basic Banner, Fixed the text "AuroraBear" changing it now to AuroraPolar -->
+<a href="https://github.com/Cyrodwd" rel="noreferrer"><img src="banner/aurorapolar.jpeg" width="1280" height="530"/></a>
 
 ### I am an intermediate programmer, and I am still practicing, and I am passionate about Linux.
 
