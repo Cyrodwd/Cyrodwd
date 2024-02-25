@@ -15,7 +15,6 @@
 
 ## Skills
 <p align="left">
- 
 <!--C-->
 <a href="https://learn.microsoft.com/en-us/cpp/?view=msvc-170" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="36" height="36" alt="C"/></a>
 <!--D-->
