@@ -1,7 +1,7 @@
 ### Hello! I'm Cyrodwd/AuroraPolar 🤌 (You can call me with any of the 2 usernames).
 
 <!-- Basic Banner, Fixed the text "AuroraBear" changing it now to AuroraPolar -->
-<a href="https://github.com/Cyrodwd" rel="noreferrer"><img src="banner/aurorapolar.jpeg" width="1280" height="530"/></a>
+<a href="https://github.com/Cyrodwd" rel="noreferrer"><img src="banner/aurorapolar.jpeg" width="1280" height="430"/></a>
 
 ### I am an intermediate programmer, and I am still practicing, and I am passionate about Linux.
 
