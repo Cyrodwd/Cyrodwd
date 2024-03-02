@@ -57,6 +57,7 @@
   * Day of Defeat: Source
   * AssaultCube (not so much anymore)
   * Garry's Mod
+* I like vintage elements, like video games from 1990 and 2000-2007, and shows.
 * I like foxes, wolves, dogs and cats. I don't know, I just like them. 😐
 * I like free and open source programs, such as GIMP, Krita, Inkscape, VSCodium, Clementine, etc.
 * I like to learn, although not with everything, I like to learn the use of tools, history, geopolitics, programming, UNIX/Linux commands, etc
