@@ -31,8 +31,6 @@
 <a href="https://nim-lang.org/" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nim/nim-original.svg" width="36" height="32" alt="Nim"/></a>
 <!--Julia-->
 <a href="https://julialang.org/" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/julia/julia-original.svg" width="36" height="32" alt="Julia"/></a>
-<!--Java-->
-<a href="https://www.java.com/es/" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="36" height="32" alt="Java"/></a>
 <!--Haxe-->
 <a href="https://haxe.org/" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/haxe/haxe-original.svg" width="36" height="32" alt="Haxe"/></a>
 <!--Zig-->
