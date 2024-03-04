@@ -3,7 +3,6 @@
 <!-- Basic Banner, Fixed the text "AuroraBear" changing it now to "AuroraPolar" -->
 <a href="https://github.com/Cyrodwd" rel="noreferrer"><img src="banner/aurorapolar.jpeg" width="1280" height="430"/></a>
 
-### Currently occupied by the school...
 ### Intermediate programmer who continues learning, and enjoys Linux.
 
 -----------------
