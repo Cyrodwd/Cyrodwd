@@ -1,17 +1,17 @@
-### Hello! I'm Cyrodwd/AuroraPolar 👌 (You can call me with any of the 2 usernames).
+### ✨ Hello! I'm Cyrodwd/AuroraPolar ✨
 
 <!-- Basic Banner, Fixed the text "AuroraBear" changing it now to "AuroraPolar" -->
 <a href="https://github.com/Cyrodwd" rel="noreferrer"><img src="banner/aurorapolar.jpeg" width="1280" height="430"/></a>
 
-### I am an intermediate programmer, and I am still practicing, and I am passionate about Linux.
+### Currently occupied by the school...
+### Intermediate programmer who continues learning, and enjoys Linux.
 
 -----------------
 ## Status (?)
-* Learning **Gentoo**. I practice compiling from the source code of certain tools and programs, such as Raylib. To prepare when installing Gentoo and installing those programs or tools that are not in Portage.<br>
+* Learning **Gentoo** and **Git**<br>
+<p align="left">
 <a href="https://www.gentoo.org/" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gentoo/gentoo-original.svg" width="40" height="36" alt="Gentoo" title="Gentoo"/></a>
-
-* Learning **Git**<br>
-<a href="https://git-scm.com/" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="36" alt="Git" title="Git"/></a>
+<a href="https://git-scm.com/" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="36" alt="Git" title="Git"/></a></p>
 
 ## Skills
 <p align="left">
@@ -43,24 +43,19 @@
 -----------------------------
 <!-- Personal Information -->
 ### General information
-* I am an introvert, and I get nervous in social situations.
-* I explore and use tools, programs or programming languages ​​that are not so well known or "unconventional" out of curiosity, such is the case of Dlang and Gentoo.
-* I'm not very active in the development space, so I can't always continue projects or things like that.
-* My native language is Spanish, but sometimes I speak English but not very well, therefore I have to use translators in some situations. Although not as much as before, I study German.
-* Certain times I am silent, I speak little, I participate little or directly I do not participate, but I try when it suits me or when I have courage.
-* I don't really like describing myself, I'm ashamed, therefore these characteristics are one of the few that I dare to share.
+* Introverted, socially shy and calm (sometimes)
+* Not very active in the development space
+* Languages: Spanish, but sometimes I speak English but not very well, therefore I have to use translators in some situations.
+* I don't like to describe myself, so I share only these details.
 
 ### Likes
-* (**This is more trivial**) I like the color white, something very simple. I also like colors that are easy on the eyes and give "relaxing" vibes; such as purple, black, navy blue, etc.
-* I like ***aesthetic*** designs or aspects, but on the one hand it's a "joke" and on the other hand it's serious, because I like things that are pretty or good to look at, but not in such a strict way either. .
-* I like FPS and sandbox games, including:
-  * Day of Defeat: Source
-  * AssaultCube (not so much anymore)
-  * Garry's Mod
-* I like vintage elements, like video games from 1990 and 2000-2007, and shows.
-* I like foxes, wolves, dogs and cats. I don't know, I just like them. 😐
-* I like free and open source programs, such as GIMP, Krita, Inkscape, VSCodium, Clementine, etc.
-* I like to learn, although not with everything, I like to learn the use of tools, history, geopolitics, programming, UNIX/Linux commands, etc
+* Color White, Purple, Black and Dark Blue.
+* ***Aesthetic*** designs or aspects.
+* FPS and sandbox game
+* Vintage elements, like video games from 1990 and 2000-2007, and shows.
+* Foxes, wolves, dogs and cats. I don't know, I just like them. 😐
+* Free and open source programs.
+* Learn (although not with everything).
 
 ### Links
 <p align="left">
@@ -72,4 +67,4 @@
 <a href="https://next.forgejo.org/Cyrodwd"><img src="https://github.com/Cyrodwd/Cyrodwd/assets/110126581/b814c2ba-ec78-470a-844d-98064bd7038a" width="40" height="40" alt="Forgejo" title="Forgejo (Cyrodwd)"/></a></p>
 
 --------------------------------------------------------------------------------
-### Have a good time and wish you all the best, goodbye! 👍
+### ✨ Have a good time and wish you all the best! ✨
