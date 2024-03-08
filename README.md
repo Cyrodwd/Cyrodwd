@@ -37,7 +37,9 @@
 <!--Vlang-->
 <a href="https://vlang.io/" rel="noreferrer"><img src="https://www.svgrepo.com/show/374170/vlang.svg" width="38" height="35" alt="V" title="Vlang"/></a>
 <!--Godot-->
-<a href="https://godotengine.org/" rel="noreferrer"><img src="https://godotengine.org/assets/press/icon_color.svg" width="38" height="37" alt="Godot" title="Godot Engine"</a></p>
+<a href="https://godotengine.org/" rel="noreferrer"><img src="https://godotengine.org/assets/press/icon_color.svg" width="38" height="37" alt="Godot" title="Godot Engine"/></a>
+<!-- Most hard: NASM -->
+<a href="https://www.nasm.us/" rel="noreferrer"><img src=https://github.com/Cyrodwd/Cyrodwd/assets/110126581/d600a7bd-41de-4cc2-9d70-6696365fe090" width="40" height="40" alt="nasm" title="NASM Assembler"/></a></p>
 
 -----------------------------
 <!-- Personal Information -->
