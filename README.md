@@ -14,30 +14,32 @@
 
 ## Skills
 <p align="left">
-<!--C-->
+<!-- C -->
 <a href="https://learn.microsoft.com/en-us/cpp/?view=msvc-170" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="36" height="36" alt="C" title="C programming language"/></a>
-<!--D-->
+<!-- D -->
 <a href="https://dlang.org" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/24/D_Programming_Language_logo.svg" width="36" height="32" alt="D" title="Dlang"/></a>
-<!--Lua-->
+<!-- Lua -->
 <a href="https://www.lua.org/" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" width="36" height="32" alt="Lua" title="Lua"/></a></p>
 
-<!--Languages to learn-->
+<!-- Languages to learn -->
 ### To learn
 <p align="left">
-<!--Crystal-->
+<!-- Crystal -->
 <a href="https://crystal-lang.org/" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/crystal/crystal-original.svg" width="36" height="32" alt="Crystal" title="Crystal"/></a>
-<!--Nim-->
+<!-- Nim -->
 <a href="https://nim-lang.org/" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nim/nim-original.svg" width="36" height="32" alt="Nim" title="Nim language"/></a>
+<!-- Typescript  -->
+<a href="https://www.typescriptlang.org" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="36" height="32" alt="TS" title="Typescript"/></a>
 <!--Julia-->
 <a href="https://julialang.org/" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/julia/julia-original.svg" width="36" height="32" alt="Julia" title="Julia"/></a>
-<!--Haxe-->
+<!-- Haxe -->
 <a href="https://haxe.org/" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/haxe/haxe-original.svg" width="36" height="32" alt="Haxe" title="Haxe"/></a>
-<!--Zig-->
+<!-- Zig -->
 <a href="https://ziglang.org/" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zig/zig-original-wordmark.svg" width="36" height="32" alt="Zig" title="Zig programming language"/></a>
-<!--Vlang-->
+<!-- Vlang -->
 <a href="https://vlang.io/" rel="noreferrer"><img src="https://www.svgrepo.com/show/374170/vlang.svg" width="38" height="35" alt="V" title="Vlang"/></a>
-<!--Godot-->
-<a href="https://godotengine.org/" rel="noreferrer"><img src="https://godotengine.org/assets/press/icon_color.svg" width="38" height="37" alt="Godot" title="Godot Engine"/></a>
+<!-- Godot (Nope) -->
+<!-- <a href="https://godotengine.org/" rel="noreferrer"><img src="https://godotengine.org/assets/press/icon_color.svg" width="38" height="37" alt="Godot" title="Godot Engine"/></a> -->
 <!-- Most hard: NASM -->
 <a href="https://www.nasm.us/" rel="noreferrer"><img src=https://github.com/Cyrodwd/Cyrodwd/assets/110126581/d600a7bd-41de-4cc2-9d70-6696365fe090" width="40" height="40" alt="nasm" title="NASM Assembler"/></a></p>
 
@@ -49,6 +51,7 @@
 * Languages: Spanish, but sometimes I speak English but not very well, therefore I have to use translators in some situations.
 * I don't like to describe myself, so I share only these details.
 
+<!-- Likes -->
 ### Likes
 * Color White, Purple, Black and Dark Blue.
 * ***Aesthetic*** designs or aspects.
@@ -58,6 +61,7 @@
 * Free and open source programs.
 * Learn (although not with everything).
 
+<!-- "Social" links and blablabla -->
 ### Links
 <p align="left">
 <!-- Codeberg -->
