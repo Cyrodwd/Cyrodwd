@@ -7,9 +7,9 @@
 
 -----------------
 ## Status (?)
-* Learning **Gentoo** and **Git**<br>
+* Learning **Funtoo** and **Git**<br>
 <p align="left">
-<a href="https://www.gentoo.org/" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gentoo/gentoo-original.svg" width="40" height="36" alt="Gentoo" title="Gentoo"/></a>
+<a href="https://www.funtoo.org/Welcome" rel="noreferrer"><img src="https://www.funtoo.org/images/thumb/0/08/Funtoo_logo_background_retro_transparent.png/300px-Funtoo_logo_background_retro_transparent.png" width="46" height="36" alt="Gentoo" title="Gentoo"/></a>
 <a href="https://git-scm.com/" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="36" alt="Git" title="Git"/></a></p>
 
 ## Skills
