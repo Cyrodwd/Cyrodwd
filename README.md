@@ -1,16 +1,12 @@
-### ✨ Hello! I'm Cyrodwd/AuroraPolar ✨
+### ✨ Hello! I'm Cyrodwd/KitoCinnamon ✨
 
-<!-- Basic Banner, Fixed the text "AuroraBear" changing it now to "AuroraPolar" -->
-<a href="https://github.com/Cyrodwd" rel="noreferrer"><img src="banner/aurorapolar.jpeg" width="1280" height="430"/></a>
+<!-- Basic Banner, Fixed the text "AuroraBear" changing it now to "AuroraPolar" (NOT USING)
+<a href="https://github.com/Cyrodwd" rel="noreferrer"><img src="banner/aurorapolar.jpeg" width="1280" height="430"/></a> -->
 
-### Intermediate programmer who continues learning, and enjoys Linux.
+### Intermediate programmer who continues learning, and enjoys Linux (NixOS)
 
------------------
-## Status (?)
-* Learning **Funtoo** and **Git**<br>
-<p align="left">
-<a href="https://www.funtoo.org/Welcome" rel="noreferrer"><img src="https://www.funtoo.org/images/thumb/0/08/Funtoo_logo_background_retro_transparent.png/300px-Funtoo_logo_background_retro_transparent.png" width="46" height="36" alt="Gentoo" title="Gentoo"/></a>
-<a href="https://git-scm.com/" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="36" alt="Git" title="Git"/></a></p>
+<a href="https://nixos.org" rel="noreferrer"><img src="https://raw.githubusercontent.com/NixOS/nixos-artwork/35ebbbf01c3119005ed180726c388a01d4d1100c/logo/white.svg" width="36" height="36" alt="NixOS" title="NixOS"/></a>
+-----------
 
 ## Skills
 <p align="left">
@@ -48,7 +44,7 @@
 * Enjoys learning, especially within programming
 
 <!-- "Social" links and blablabla -->
-### Links
+### Social
 <p align="left">
 <!-- Codeberg -->
 <a href="https://codeberg.org/Cyrodwd"><img src="https://codeberg.org/Codeberg/Design/raw/branch/main/logo/icon/svg/codeberg-logo_icon_blue.svg" width="40" height="40" Alt="Codeberg" title="Codeberg (Cyrodwd)"/></a>
