@@ -3,9 +3,7 @@
 <!-- Basic Banner, Fixed the text "AuroraBear" changing it now to "AuroraPolar" (NOT USING)
 <a href="https://github.com/Cyrodwd" rel="noreferrer"><img src="banner/aurorapolar.jpeg" width="1280" height="430"/></a> -->
 
-### Intermediate programmer who continues learning, and enjoys Linux (NixOS)
-
-<a href="https://nixos.org" rel="noreferrer"><img src="https://raw.githubusercontent.com/NixOS/nixos-artwork/35ebbbf01c3119005ed180726c388a01d4d1100c/logo/white.svg" width="36" height="36" alt="NixOS" title="NixOS"/></a>
+### Intermediate programmer who continues learning, and enjoys Linux
 -----------
 
 ## Skills
