@@ -1,4 +1,4 @@
-### ✨ Hello! I'm Cyrodwd/NekoCinnamon ✨
+### ✨ Hello! I'm Cyrodwd ✨
 
 <!-- Basic Banner, Fixed the text "AuroraBear" changing it now to "AuroraPolar" (NOT USING)
 <a href="https://github.com/Cyrodwd" rel="noreferrer"><img src="banner/aurorapolar.jpeg" width="1280" height="430"/></a> -->
