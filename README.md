@@ -45,15 +45,11 @@
 * Likes vintage video games, FPS, sandbox games, and free/open-source programs. Also wolves, cats, dogs and red pandas.
 * Enjoys learning, especially Linux
 
-<!-- links and blablabla -->
-### Links
+<!-- ### Links
 <p align="left">
-<!-- Codeberg -->
 <a href="https://codeberg.org/Cyrodwd"><img src="https://codeberg.org/Codeberg/Design/raw/branch/main/logo/icon/svg/codeberg-logo_icon_blue.svg" width="40" height="40" Alt="Codeberg" title="Codeberg (Cyrodwd)"/></a>
-<!-- Odysee
-<a href="https://odysee.com/@AuroraPolar:c"><img src="https://user-images.githubusercontent.com/24932514/118271847-5d274d80-b4b1-11eb-86e5-484c2319b43f.png" width="40" height="40" alt="Odysee" title="AuroraPolar (Channel)"/></a> -->
-<!-- Forgejo -->
-<a href="https://next.forgejo.org/Cyrodwd"><img src="https://github.com/Cyrodwd/Cyrodwd/assets/110126581/b814c2ba-ec78-470a-844d-98064bd7038a" width="40" height="40" alt="Forgejo" title="Forgejo (Cyrodwd)"/></a></p>
+<a href="https://odysee.com/@AuroraPolar:c"><img src="https://user-images.githubusercontent.com/24932514/118271847-5d274d80-b4b1-11eb-86e5-484c2319b43f.png" width="40" height="40" alt="Odysee" title="AuroraPolar (Channel)"/></a>
+<a href="https://next.forgejo.org/Cyrodwd"><img src="https://github.com/Cyrodwd/Cyrodwd/assets/110126581/b814c2ba-ec78-470a-844d-98064bd7038a" width="40" height="40" alt="Forgejo" title="Forgejo (Cyrodwd)"/></a></p> -->
 
 --------------------------------------------------------------------------------
 ### ✨ Have a good time and wish you all the best! ✨
