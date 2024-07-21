@@ -1,4 +1,4 @@
-### ✨ Hello 👋! I'm Cyrodwd (you can call me FoxDev too) ✨
+### ✨ Hello 👋! I'm Cyrodwd (you can call me DinoDev too) ✨
 ----------
 ## Interested in and learning
 
