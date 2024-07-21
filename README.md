@@ -1,4 +1,4 @@
-### ✨ Hello 👋! I'm Cyrodwd (you can call me DinoDev too) ✨
+### ✨ Hello 👋! I'm Cyrodwd (you can call me Dushky too) ✨
 ----------
 ## Interested in and learning
 
