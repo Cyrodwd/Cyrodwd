@@ -7,7 +7,7 @@ I program as a hobby and make graphic programs from time to time. I like to lear
 ## Languages
 | C                                                                                                           | D | Lua | Ruby
 |-------------------------------------------------------------------------------------------------------------|---|-----|-----|
-| <img src="https://github.com/Cyrodwd/Cyrodwd/blob/main/assets/C_Logo.png" width="40" height="42" title="C"> | <a href="https://dlang.org/" rel="noreferrer"><img src="https://github.com/Cyrodwd/Cyrodwd/blob/main/assets/D_Logo.png" width="40" height="36" title="Dlang"> | <a href="https://www.lua.org/" rel="noreferrer"><img src="https://github.com/Cyrodwd/Cyrodwd/blob/main/assets/Lua_Logo.png" width="42" height="40" title="Lua"> | <a href="https://ruby.org" rel="noreferrer"><img src="https://github.com/Cyrodwd/Cyrodwd/blob/main/assets/Ruby_Logo.png" width="42" height="40" title="Ruby">
+| <img src="https://github.com/Cyrodwd/Cyrodwd/blob/main/assets/C_Logo.png" width="40" height="42" title="C"> | <a href="https://dlang.org/" rel="noreferrer"><img src="https://github.com/Cyrodwd/Cyrodwd/blob/main/assets/D_Logo.png" width="40" height="36" title="Dlang"> | <a href="https://www.lua.org/" rel="noreferrer"><img src="https://github.com/Cyrodwd/Cyrodwd/blob/main/assets/Lua_Logo.png" width="42" height="40" title="Lua"> | <a href="https://www.ruby-lang.org/" rel="noreferrer"><img src="https://github.com/Cyrodwd/Cyrodwd/blob/main/assets/Ruby_Logo.png" width="42" height="40" title="Ruby">
 
 <!-- I'll later make it a table too -->
 
