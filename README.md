@@ -1,6 +1,3 @@
-# ✨ Hello 👋! I'm Cyrodwd ✨
-----------
-
 <!-- Personal Information -->
 ## About me:
 * I'm interested in low-level and graphics programming.
@@ -10,9 +7,9 @@
 
 <!--DAMN-->
 ## Languages:
-| C  | D | Lua | Ruby
-|----|---|-----|-----|
-| <img src="https://github.com/Cyrodwd/Cyrodwd/blob/main/assets/C_Logo.png" width="40" height="42" title="C"> | <a href="https://dlang.org/" rel="noreferrer"><img src="https://github.com/Cyrodwd/Cyrodwd/blob/main/assets/D_Logo.png" width="40" height="36" title="Dlang"></a> | <a href="https://www.lua.org/" rel="noreferrer"><img src="https://github.com/Cyrodwd/Cyrodwd/blob/main/assets/Lua_Logo.png" width="42" height="40" title="Lua"></a> | <a href="https://www.ruby-lang.org/" rel="noreferrer"><img src="https://github.com/Cyrodwd/Cyrodwd/blob/main/assets/Ruby_Logo.png" width="42" height="40" title="Ruby"></a>
+| C  | D | Lua | Ruby | Haxe |
+|----|---|-----|------|------|
+| <img src="https://github.com/Cyrodwd/Cyrodwd/blob/main/assets/C_Logo.png" width="40" height="42" title="C"> | <a href="https://dlang.org/" rel="noreferrer"><img src="https://github.com/Cyrodwd/Cyrodwd/blob/main/assets/D_Logo.png" width="40" height="36" title="Dlang"></a> | <a href="https://www.lua.org/" rel="noreferrer"><img src="https://github.com/Cyrodwd/Cyrodwd/blob/main/assets/Lua_Logo.png" width="42" height="40" title="Lua"></a> | <a href="https://www.ruby-lang.org/" rel="noreferrer"><img src="https://github.com/Cyrodwd/Cyrodwd/blob/main/assets/Ruby_Logo.png" width="42" height="40" title="Ruby"></a> | <a href="https://haxe.org/" rel="noreferrer"><img src="https://github.com/Cyrodwd/Cyrodwd/blob/main/assets/Haxe_Logo.png" width="40" height="42" title="Haxe"></a>
 
 ## Libraries:
 <!-- Libraries -->
