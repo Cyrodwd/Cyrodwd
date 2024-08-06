@@ -1,3 +1,5 @@
+~ Hi, Glad to meet you! ~
+
 <!-- Personal Information -->
 ## About me:
 * I'm interested in low-level and graphics programming.
