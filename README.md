@@ -17,6 +17,6 @@
 <!-- Libraries -->
 | C | D | Lua | Ruby |
 |---|---|-----|------|
-|<a href="https://www.raylib.com/" rel="noreferrer"><img src="https://github.com/Cyrodwd/Cyrodwd/blob/main/assets/Raylib_Logo.png" width="36" height="36" alt="Raylib" title="Raylib"/></a> | <a href="https://www.raylib.com/" rel="noreferrer"><img src="https://github.com/Cyrodwd/Cyrodwd/blob/main/assets/Raylib_Logo.png" width="36" height="36" alt="Raylib" title="Raylib"/></a> | <a href="https://love2d.org/" rel="noreferrer"></a> | EMPTY LOL |
+|<a href="https://www.raylib.com/" rel="noreferrer"><img src="https://github.com/Cyrodwd/Cyrodwd/blob/main/assets/Raylib_Logo.png" width="36" height="36" alt="Raylib" title="Raylib"/></a> | <a href="https://www.raylib.com/" rel="noreferrer"><img src="https://github.com/Cyrodwd/Cyrodwd/blob/main/assets/Raylib_Logo.png" width="36" height="36" alt="Raylib" title="Raylib"/></a> | <a href="https://love2d.org/" rel="noreferrer"><img src="https://github.com/Cyrodwd/Cyrodwd/blob/main/assets/love2d.png" width="36" height="36" title="Love2D"></a> | EMPTY LOL |
 
 -----------------------------
