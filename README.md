@@ -6,4 +6,4 @@ My name is Cyrodwd and I'm a programmer (also minor).
 * 💤 I'm a bit lazy hehe....
 * 😺 It makes me nervous to socialize
 * 💬 I speak Spanish and English (it isn't fluent, please be patient)
-* 🍪 I program in C, [D](https://dlang.org/), [Lua](https://www.lua.org/) and [Crystal](https://crystal-lang.org) programming languages.
+* 🍪 I program in C, [D](https://dlang.org/) and [Lua](https://www.lua.org/) programming languages.
